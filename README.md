@@ -63,6 +63,7 @@ project-name/
 - **Your Name** - BCIT CST Student with a passion for creating user-friendly applications. Fun fact: Loves solving Rubik's Cubes in under a minute.
 - Jacob Price - BCIT CST Student, bonafide gamer. Fun fact: really epic.
 git
+- Siddharthsinh Solanki - BCIT CST Student, Fun Fact : So lazy personality. 
 ---
 
 ## Acknowledgments
